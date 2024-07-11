@@ -66,7 +66,7 @@ function Counter() {
     });
   };
 
-  console.log(state);
+  //   console.log(state);
 
   return (
     <div>
